@@ -20,7 +20,7 @@
 *.rar
 
 #Custom Files#
- *.iml#
+Git-Cooperation-Learn.iml
 
 #Custom Paths#
 /.idea/
