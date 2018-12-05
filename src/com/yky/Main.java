@@ -1,9 +1,8 @@
 package com.yky;
-
-import com.ttt.test;
-
+import com.ttt.*;
 public class Main {
     public static void main(String[] args) {
-        test test = new test();
+        test t = new test();
+        t.p();
     }
 }
