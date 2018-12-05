@@ -20,9 +20,13 @@
 *.rar
 
 #Custom Files#
-Git-Cooperation-Learn.iml
+#IDEA项目文件
+*.iml
+#冲突解决工具备份文件
+*.orig
 
 #Custom Paths#
+#IDEA项目文件夹
 /.idea/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
